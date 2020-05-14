@@ -1,2 +1,3 @@
 # testpublick
 test
+verify test
